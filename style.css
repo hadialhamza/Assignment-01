@@ -176,3 +176,29 @@ header {
   font-weight: 400;
   color: #b3b3b3;
 }
+
+/* Focus section style */
+.focus-section {
+  padding: 71px 150px;
+  text-align: center;
+  background-color: #ffffff;
+  border-radius: 14px;
+  margin-bottom: 100px;
+}
+.focus-title {
+  font-size: 50px;
+  font-weight: 700;
+  color: #000000;
+  margin-bottom: 20px;
+}
+.focus-details {
+  font-family: "Inter";
+  font-size: 16px;
+  font-weight: 400;
+  color: #00000080;
+  margin-bottom: 20px;
+}
+.focus-image {
+  border-radius: 48px;
+  margin-top: 20px;
+}
